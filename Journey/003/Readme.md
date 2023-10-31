@@ -1,52 +1,12 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+# AWS IAM
+- AWS Identity and Access Management memungkinakan kita mengontrol akses ke komputasi penyimpanan, basis data, dan layanan aplikasi di AWS Cloud.
+- Dengan IAM, kita bisa mengelola sumber daya dapat diakses oleh siapa, dan bagaimana sumber daya ini dapat diakses
+- Misal, kita bisa mengizinkan beberapa pengguna akses penuh ke Amazon EC2, Amazon S3, Amazon DynamoDB, Amazon Redshift, dan layanan AWS lainnya. Namun, untuk pengguna lain, Anda mungkin hanya mengizinkan akses read-only ke beberapa bucket S3.
+## Lab 1
+### Step 1
+Di Bagian atas, pilih Mulai Lab untuk memulai lab.
+### Step 2
+Tunggu sampai Anda melihat pesan "Status lab: siap", lalu klik X untuk menutup panel Mulai Lab.
+### Step 3
+Di bagian atas instruksi ini, pilih AWS. Tindakan ini akan membuka Konsol Manajemen AWS di tab browser baru. Anda akan login ke sistem secara otomatis
 
-# New post title here
-
-## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
