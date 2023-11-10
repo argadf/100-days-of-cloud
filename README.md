@@ -14,7 +14,7 @@
 - [ ] ☁️ 1 > [Cloud Foundation Chapter 1](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [Cloud Foundation Chapter 2 & 3](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [Lab 1 : AWS IAM](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
+- [ ] ☁️ 4 > [Cloud Foundation 4 & 5, Lab 2 : VPC](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
